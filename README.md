@@ -10,6 +10,7 @@
 - 💻 Passionate about modern web development
 - 🌐 Interested in full-stack development and building complete web applications
 - 🌱 Currently learning **React** and **Next.js**
+- 🎓 Currently focused on developing my engineering thesis
 - 📚 Always eager to explore new technologies and improve my skills
 - 🤝 Open to collaborating on interesting projects
 
