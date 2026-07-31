@@ -2,7 +2,7 @@
 
 🎓 **Third-year Computer Science student** at the **University of Silesia in Katowice**
 💼 Specialization: **Web Application Development**
-
+[Portfolio](https://koterzynaszymon.github.io/portfolio/)
 ---
 
 ## 🚀 About Me
