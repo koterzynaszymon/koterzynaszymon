@@ -1,7 +1,10 @@
 # Hi there! 👋 I'm Szymon Koterzyna
 
-🎓 **Third-year Computer Science student** at the **University of Silesia in Katowice**
-💼 Specialization: **Web Application Development**
+🎓 **Third-year Computer Science student** at the **University of Silesia in Katowice**  
+💼 Specialization: **Web Application Development**  
+
+🌐 **Portfolio:** [KLIK]([https://twojadomena.pl](https://koterzynaszymon.github.io/portfolio/))
+
 ---
 
 ## 🚀 About Me
